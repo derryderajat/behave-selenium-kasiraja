@@ -94,6 +94,8 @@ __pypackages__/
 # Environments
 .env
 .venv
+selbeh/
+.selbeh
 env/
 venv/
 ENV/
