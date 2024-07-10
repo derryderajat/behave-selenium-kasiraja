@@ -28,3 +28,6 @@ def step_impl(context):
 def step_impl(context):
     assert context.auth_page.is_redirected_to_dashboard()
     context.driver.quit()
+
+
+
